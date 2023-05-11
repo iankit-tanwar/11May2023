@@ -1,0 +1,76 @@
+.a_tbdr{
+    border: 1px dashed red;
+
+}
+.row{
+    height: 100px;
+
+}
+.a_tbdr_2 > div:first-child{
+    border: 1px dashed red;
+    background-color: aqua;
+
+}
+.a_tbdr_2 > div:nth-child(2){
+    border: 1px dashed red;
+    background-color: rgb(93, 0, 255);
+
+}
+.a_tbdr_2 > div:nth-child(3){
+    border: 1px dashed red;
+    background-color: rgb(255, 0, 34);
+
+}
+
+.a_tbdr_2 > div:nth-child(4){
+    border: 1px dashed red;
+    background-color: rgb(255, 0, 0);
+
+}
+
+.a_tbdr_2 > div:nth-child(5){
+    border: 1px dashed red;
+    background-color: rgb(0, 255, 225);
+
+}
+
+.a_tbdr_2 > div:nth-child(6){
+    border: 1px dashed red;
+    background-color: rgb(136, 0, 255);
+
+}
+
+.a_tbdr_2 > div:nth-child(7){
+    border: 1px dashed red;
+    background-color: rgb(255, 0, 251);
+
+}
+
+.a_tbdr_2 > div:nth-child(8){
+    border: 1px dashed red;
+    background-color: rgb(153, 255, 0);
+
+}
+.a_tbdr_2 > div:nth-child(9){
+    border: 1px dashed red;
+    background-color: rgb(0, 255, 68);
+
+}
+
+.a_tbdr_2 > div:nth-child(10){
+    border: 1px dashed red;
+    background-color: rgb(255, 17, 0);
+
+}
+.a_tbdr_2 > div:nth-child(11){
+    border: 1px dashed red;
+    background-color: rgb(0, 170, 255);
+
+}
+
+.a_tbdr_2 > div:last-child{
+    border: 1px dashed red;
+    background-color: rgb(55, 255, 0);
+
+}
+
